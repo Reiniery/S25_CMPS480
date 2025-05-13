@@ -1,7 +1,7 @@
 # Assignment 1
 
 ## Main Menu Form 
-![Main Menu Display](figures/Main Menu.png)
+![Main Menu Display](/figures/Main Menu.png)
 
 ## Make a Purchase Form
 
